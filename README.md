@@ -12,7 +12,7 @@ Para poder utilizar el programa de Arduino, es necesario importar dos librerías
 
 Ambas librerías se pueden encontrar en el repositorio con carpetas con ese mismo nombre. 
 
-![](imagenes/cap1.png)
+![](imagenes/cap1.jpg)
 
 ### Paso 2
 
