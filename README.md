@@ -25,15 +25,21 @@ Primero se debe abrir el programa "calibracion.ino" y descargarlo en la placa Ar
 
 **No hay que olvidar seleccionar el modelo de placa, en este proyecto se utilizó un Arduino Nano. Asimismo, no hay que olvidar seleccionar el puerto que detecte el IDE.**
 
+![](imagenes/cap4.jpg)
+
 Una vez que termine la descarga, abrir la ventana "Monitor Serie" el cual se encuentra hasta la esquina superior derecha.
 Ya abierta, pedirá que se ingrese una letra para comenzar a calibrar. 
 Queda esperar el tiempo que le tome al Arduino calcular los valores y al finalizar, es recomendable anotar los offsets en un arhivo de texto o en algún lado donde no se pierdan porque se van a utilizar en otro programa.
+
+![](imagenes/cap2.jpg)
 
 ### Paso 4
 
 Ahora hay que abrir el programa "giroscopio.ino" y colocar los valores de los offsets en las líneas 169, 170, 171 y 172 con los valores correspondientes. 
 Finalmente se compila el pograma y se descarga a la placa. Se puede abrir el Monitor Serie para observar si los valores se están evíando correctamente.
 Para saber si está bien calibrado el sensor, antes de mover la placa, los valores deben ser muy cercanos a 0.
+
+![](imagenes/cap3.jpg)
 
 ### Paso 5
 
