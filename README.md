@@ -3,6 +3,8 @@ Proyecto de Unity en donde se pueden reproducir imágenes 360° y que permiten s
 
 ## Instrucciones
 
+Para poder usar el Aruino, revisar el ReadMe_conexiones.md para poder conectar los pines correctamente.
+
 ### Paso 1
 
 Para poder utilizar el programa de Arduino, es necesario importar dos librerías al IDE de Arduino:
